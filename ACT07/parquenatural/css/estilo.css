@@ -1,0 +1,41 @@
+body {
+  width: 70vw;
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 0.7em solid lightgrey;
+}
+
+#header {
+  text-align: center;
+}
+
+#main {
+  margin: 1em;
+  border: 1px solid lightgrey;
+}
+#main > p {
+  padding: 0.5em 1em 0.2em 1em;
+  text-align: justify;
+}
+
+h1 {
+  letter-spacing: 0.2em;
+  font-size: 1.5em;
+  color: coral;
+}
+h1 > span {
+  color: rgb(99, 158, 11);
+}
+
+h2 {
+  color: rgb(98, 243, 98);
+  font-size: 1.3em;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  border-bottom: 1px solid lightgrey;
+}
+
+h3 {
+  color: lightcoral;
+  text-indent: 1em;
+}
