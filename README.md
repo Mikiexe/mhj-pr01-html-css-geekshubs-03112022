@@ -9,7 +9,7 @@ Algunas actividades son progresivas, asi que el código se puede repetir.
 
 ### Links para cada actividad
 
-<table style=" margin: auto; width: 50%; padding: 10px;">
+<table>
     <tr>
         <td colspan="5" style="text-align:center">Actividades</td>
     </tr>
