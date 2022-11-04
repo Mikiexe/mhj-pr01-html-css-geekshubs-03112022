@@ -6,6 +6,7 @@
 Set de actividades de refuerzo de <b>HTML5</b> y <b>CSS</b>
 Algunas actividades son progresivas, asi que el código se puede repetir.
 </div>
+
 ### Links para cada actividad
 
 <table style=" margin: auto; width: 50%; padding: 10px;">
